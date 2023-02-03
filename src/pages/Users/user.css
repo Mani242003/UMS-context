@@ -1,0 +1,30 @@
+.userContainer{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    width: 30%;
+    margin: 2%;
+    padding: 2% 1%;
+
+}
+
+h4{
+    color: grey;
+    font-size: 18px;
+    margin: 1%;
+
+    
+}
+small{
+    color: black;
+    margin: 1%;
+    font-size: 20px;
+
+
+}
+.deleteButton{
+    padding: 1% 3%;
+    margin: 1%;
+   
+    outline: none;
+    background-color: red;
+    
+}

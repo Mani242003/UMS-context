@@ -1,0 +1,22 @@
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(0,48,104);
+    padding: 20px 0px ;
+}
+nav h1{
+    color: white;
+    
+}
+
+nav ul{
+    
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 1px 30px;
+    font-size: large;
+}
